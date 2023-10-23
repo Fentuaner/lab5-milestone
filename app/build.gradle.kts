@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.cs407.lab5_milestone"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.cs407.lab5_milestone"
         minSdk = 26
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
